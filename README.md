@@ -6,9 +6,9 @@ A Flutter Project 🐦
 
 This guide will help you set up and run the project on your local machine, even if you’re new to Flutter.
 
-## Prereqisites
+## Prerequisites
 
-\*Flutter SDK: Install Flutter
+\*\*\*Flutter SDK: Install Flutter
 
 \*Dart SDK (comes with Flutter)
 
@@ -24,15 +24,15 @@ This guide will help you set up and run the project on your local machine, even 
 
 1. Clone the Repo
 
-   - Open a terminal and run:
-     git clone https://github.com/Mattie-07/shoppinglist.git
+   - Open a terminal and run:  
+     git clone https://github.com/Mattie-07/shoppinglist.git  
      cd shoppinglist
 
-2. Install Dependencies
+2. Install Dependencies  
    flutter pub get
 
-3. Run the Project
-   flutter run (on Andriod)
+3. Run the Project  
+   flutter run (on Andriod)  
    flutter run -d ios(mac OS only)
-4. If any potential issues arrise run:
+4. If any potential issues arrise run:  
    flutter doctor
