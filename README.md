@@ -1,16 +1,38 @@
-# shoppinglist
+# Shopping List
 
-A new Flutter project.
+A Flutter Project 🐦
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This guide will help you set up and run the project on your local machine, even if you’re new to Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## Prereqisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+\*Flutter SDK: Install Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+\*Dart SDK (comes with Flutter)
+
+\*Android Studio OR Visual Studio Code (with Flutter/Dart plugins)
+
+\*Xcode (if running on macOS for iOS development)
+
+\*Git (for cloning the repository)
+
+\*A device or emulator (Android/iOS)
+
+## Installation Steps
+
+1. Clone the Repo
+
+   - Open a terminal and run:
+     git clone https://github.com/Mattie-07/shoppinglist.git
+     cd shoppinglist
+
+2. Install Dependencies
+   flutter pub get
+
+3. Run the Project
+   flutter run (on Andriod)
+   flutter run -d ios(mac OS only)
+4. If any potential issues arrise run:
+   flutter doctor
